@@ -48,7 +48,7 @@ The 3DIR dataset includes the following data: <br>
 (4) Pesudo-SMPLH parameters. <br>
 (5) Annotation of the Human-Object spatial relation. <br>
 
-Download the 3DIR dataset from [Google Drive](https://drive.google.com/drive/folders/1yucDqpVLL1wBWtP4aKmUSMsgbNbQ2Cp9?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/17V4VUw9Ow8mChoP1FRyeGw?pwd=3DIR) (key: 3DIR). Please refer to `Data/DATA.md` for more details of 3DIR.
+Download the 3DIR dataset from [Google Drive](https://drive.google.com/drive/folders/1yucDqpVLL1wBWtP4aKmUSMsgbNbQ2Cp9?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/18fDJZe39Hh86ts_Joot_nQ?pwd=xiqv) (key: xiqv). Please refer to `Data/DATA.md` for more details of 3DIR.). Please refer to `Data/DATA.md` for more details of 3DIR.
 
 ## ✏️ Usage <a name="4"></a>
 ### Environment <a name="41"></a> 
